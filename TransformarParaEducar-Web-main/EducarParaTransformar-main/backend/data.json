@@ -1,0 +1,70 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Feria de Ciencias 2026: Un éxito rotundo",
+      "date": "05 May 2026",
+      "summary": "Nuestros alumnos de secundaria presentaron proyectos innovadores en robótica y sustentabilidad.",
+      "tag": "Secundaria"
+    },
+    {
+      "id": 2,
+      "title": "Inauguración de la nueva pista de atletismo",
+      "date": "28 Abr 2026",
+      "summary": "Seguimos mejorando nuestras instalaciones deportivas para el bienestar de nuestros estudiantes.",
+      "tag": "Deportes"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "author": "María P.",
+      "text": "Excelente nivel académico y calidez humana. Mis hijos están felices.",
+      "date": "Hace 2 días"
+    },
+    {
+      "id": 2,
+      "author": "Carlos R.",
+      "text": "Las instalaciones son de primer nivel. Recomiendo mucho el colegio.",
+      "date": "Hace 1 semana"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "nombre": "Admin",
+      "email": "admin@educar.com",
+      "rol": "autoridad",
+      "activo": true
+    },
+    {
+      "id": 2,
+      "nombre": "Carlos Perez",
+      "email": "docente@educar.com",
+      "rol": "docente",
+      "activo": true
+    },
+    {
+      "id": 3,
+      "nombre": "Maria Lopez",
+      "email": "maria@test.com",
+      "rol": "padre",
+      "activo": true
+    },
+    {
+      "id": 4,
+      "nombre": "Juan Lopez",
+      "email": "juan@test.com",
+      "rol": "alumno",
+      "activo": true
+    },
+    {
+      "id": 1778191461845,
+      "activo": true,
+      "nombre": "hola",
+      "email": "hola@mail.com",
+      "password": "hola",
+      "rol": "docente"
+    }
+  ]
+}
